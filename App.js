@@ -10,6 +10,7 @@ export default function App() {
       }}
     >
       <Text>Universal React with Expo</Text>
+        <Text>Hello World Bunsen!</Text>
     </View>
   );
 }
