@@ -9,8 +9,7 @@ export default function App() {
         alignItems: "center",
       }}
     >
-      <Text>Universal React with Expo</Text>
-        <Text>Hello World Bunsen!</Text>
+        <Text style={{ fontSize: 24, fontWeight: 'bold' }}>Hello World Bunsen!</Text>
     </View>
   );
 }
